@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/cli.png" alt="Cognix CLI Logo" width="300"/>
+  <img src="assets/cli.png" alt="Cognix CLI Logo" width="1000"/>
 </p>
 
 Welcome to **Cognix CLI**, a powerful CLI for AI-powered agents designed for deep research and intelligent task automation.
